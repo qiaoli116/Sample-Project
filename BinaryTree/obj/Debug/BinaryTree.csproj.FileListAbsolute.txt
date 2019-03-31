@@ -1,0 +1,7 @@
+D:\qiao\teaching\programming_for_the_cloud\2019S1\tutorios\labs\2.BinaryTree\Lab.2.BinaryTree.Codes\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+D:\qiao\teaching\programming_for_the_cloud\2019S1\tutorios\labs\2.BinaryTree\Lab.2.BinaryTree.Codes\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+D:\qiao\teaching\programming_for_the_cloud\2019S1\tutorios\labs\2.BinaryTree\Lab.2.BinaryTree.Codes\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+D:\qiao\teaching\programming_for_the_cloud\2019S1\tutorios\labs\2.BinaryTree\Lab.2.BinaryTree.Codes\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+D:\qiao\teaching\programming_for_the_cloud\2019S1\tutorios\labs\2.BinaryTree\Lab.2.BinaryTree.Codes\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+D:\qiao\teaching\programming_for_the_cloud\2019S1\tutorios\labs\2.BinaryTree\Lab.2.BinaryTree.Codes\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+D:\qiao\teaching\programming_for_the_cloud\2019S1\tutorios\labs\2.BinaryTree\Lab.2.BinaryTree.Codes\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
